@@ -11,7 +11,7 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 /**
- *
+ * 测试github
  * @author caiwen
  * @date 2017/5/9
  */
